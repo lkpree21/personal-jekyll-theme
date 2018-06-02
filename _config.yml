@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "John Smith"
-title: "{ John Smith }"
+title: "LOVE"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "情爱的宝贝，请伸出你神奇的手指"
-  - text: "戳我一下"
+  - text: "亲爱的宝贝，请伸出你神奇的手指"
+  - text: "戳我一下！"
 
 me-img: "/img/jetpacktocat.png"
 
